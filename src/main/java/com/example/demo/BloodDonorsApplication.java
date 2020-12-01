@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class BloodDonorsApplication {
-
+	// billa badmash
 	public static void main(String[] args) {
 		SpringApplication.run(BloodDonorsApplication.class, args);
 	}
